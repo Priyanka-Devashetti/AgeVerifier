@@ -1,0 +1,2 @@
+com/example/ageverifier/BuildConfig.java
+ com.example.ageverifier.BuildConfig

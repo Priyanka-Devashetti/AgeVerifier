@@ -1,0 +1,143 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/Shivaprasad/Documents/Tests/age-verifier/app/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/Shivaprasad/Documents/Tests/age-verifier/app/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/Shivaprasad/Documents/Tests/age-verifier/app/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/Shivaprasad/Documents/Tests/age-verifier/app/app/src/main/AndroidManifest.xml:2:1-23:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/Shivaprasad/.gradle/caches/transforms-2/files-2.1/05e1aae58ba546db4590cb593488aa63/appcompat-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.1.0] /Users/Shivaprasad/.gradle/caches/transforms-2/files-2.1/6da726d11500ea87420a65c16945b7ee/jetified-core-ktx-1.1.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/Shivaprasad/.gradle/caches/transforms-2/files-2.1/23da927df6fcbf2fc345617987c56b9a/constraintlayout-1.1.3/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/Shivaprasad/.gradle/caches/transforms-2/files-2.1/73ae7c09693cba06f1a84748c8ceb5b9/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/Shivaprasad/.gradle/caches/transforms-2/files-2.1/c3349552856940da3b627c636d898d39/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/Shivaprasad/.gradle/caches/transforms-2/files-2.1/44b73a902dc8e6c27b52c6add1034de4/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/Shivaprasad/.gradle/caches/transforms-2/files-2.1/79cf0a60709ce490076c4861710cb2d1/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/Shivaprasad/.gradle/caches/transforms-2/files-2.1/16cf533b524e4aad4f858c1409940a93/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /Users/Shivaprasad/.gradle/caches/transforms-2/files-2.1/57abd04950ef4526cbc28b21b264eec4/jetified-activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/Shivaprasad/.gradle/caches/transforms-2/files-2.1/3ab970956fd9a401cad0ee3aa796d96c/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/Shivaprasad/.gradle/caches/transforms-2/files-2.1/d5afa09d7e328d541cec4838136773ce/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/Shivaprasad/.gradle/caches/transforms-2/files-2.1/2fae083181b893272b6fc48f07498de2/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] /Users/Shivaprasad/.gradle/caches/transforms-2/files-2.1/add1f0fa427e850c06140aa78c65ba37/core-1.1.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/Shivaprasad/.gradle/caches/transforms-2/files-2.1/a6348782eba6a7f4d2285bdc7efeb59c/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/Shivaprasad/.gradle/caches/transforms-2/files-2.1/09f3a86599a2e8cfb2feaf6f728f2349/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/Shivaprasad/.gradle/caches/transforms-2/files-2.1/7440921f31427932685ff6bccfdca3f6/lifecycle-runtime-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/Shivaprasad/.gradle/caches/transforms-2/files-2.1/de298ad99b658ccdaa37835c95844e60/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/Shivaprasad/.gradle/caches/transforms-2/files-2.1/95901312849414deaf6e849570ce7cd6/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/Shivaprasad/.gradle/caches/transforms-2/files-2.1/48bb204b74ac36f6defcfd025c9da539/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/Shivaprasad/.gradle/caches/transforms-2/files-2.1/54b9dbebf17a539d6ad509cd4de8f404/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/Shivaprasad/.gradle/caches/transforms-2/files-2.1/02186aee80d434089bca00b567e83c12/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/Shivaprasad/.gradle/caches/transforms-2/files-2.1/32471e4534f188e37152139e08344500/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/Shivaprasad/Documents/Tests/age-verifier/app/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/Shivaprasad/Documents/Tests/age-verifier/app/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/Shivaprasad/Documents/Tests/age-verifier/app/app/src/main/AndroidManifest.xml:2:1-23:12
+	package
+		ADDED from /Users/Shivaprasad/Documents/Tests/age-verifier/app/app/src/main/AndroidManifest.xml:3:5-38
+		INJECTED from /Users/Shivaprasad/Documents/Tests/age-verifier/app/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Shivaprasad/Documents/Tests/age-verifier/app/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/Shivaprasad/Documents/Tests/age-verifier/app/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Shivaprasad/Documents/Tests/age-verifier/app/app/src/main/AndroidManifest.xml:2:1-23:12
+		INJECTED from /Users/Shivaprasad/Documents/Tests/age-verifier/app/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/Shivaprasad/Documents/Tests/age-verifier/app/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Shivaprasad/Documents/Tests/age-verifier/app/app/src/main/AndroidManifest.xml:2:1-23:12
+		INJECTED from /Users/Shivaprasad/Documents/Tests/age-verifier/app/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/Shivaprasad/Documents/Tests/age-verifier/app/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/Shivaprasad/Documents/Tests/age-verifier/app/app/src/main/AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from /Users/Shivaprasad/Documents/Tests/age-verifier/app/app/src/main/AndroidManifest.xml:5:22-64
+application
+ADDED from /Users/Shivaprasad/Documents/Tests/age-verifier/app/app/src/main/AndroidManifest.xml:7:5-21:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/Shivaprasad/.gradle/caches/transforms-2/files-2.1/23da927df6fcbf2fc345617987c56b9a/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/Shivaprasad/.gradle/caches/transforms-2/files-2.1/23da927df6fcbf2fc345617987c56b9a/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.1.0] /Users/Shivaprasad/.gradle/caches/transforms-2/files-2.1/add1f0fa427e850c06140aa78c65ba37/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] /Users/Shivaprasad/.gradle/caches/transforms-2/files-2.1/add1f0fa427e850c06140aa78c65ba37/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/Shivaprasad/.gradle/caches/transforms-2/files-2.1/09f3a86599a2e8cfb2feaf6f728f2349/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/Shivaprasad/.gradle/caches/transforms-2/files-2.1/09f3a86599a2e8cfb2feaf6f728f2349/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] /Users/Shivaprasad/.gradle/caches/transforms-2/files-2.1/add1f0fa427e850c06140aa78c65ba37/core-1.1.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/Shivaprasad/Documents/Tests/age-verifier/app/app/src/main/AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from /Users/Shivaprasad/Documents/Tests/age-verifier/app/app/src/main/AndroidManifest.xml:10:9-41
+	android:roundIcon
+		ADDED from /Users/Shivaprasad/Documents/Tests/age-verifier/app/app/src/main/AndroidManifest.xml:11:9-54
+	android:icon
+		ADDED from /Users/Shivaprasad/Documents/Tests/age-verifier/app/app/src/main/AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from /Users/Shivaprasad/Documents/Tests/age-verifier/app/app/src/main/AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from /Users/Shivaprasad/Documents/Tests/age-verifier/app/app/src/main/AndroidManifest.xml:13:9-40
+activity#com.example.ageverifier.MainActivity
+ADDED from /Users/Shivaprasad/Documents/Tests/age-verifier/app/app/src/main/AndroidManifest.xml:14:9-20:20
+	android:name
+		ADDED from /Users/Shivaprasad/Documents/Tests/age-verifier/app/app/src/main/AndroidManifest.xml:14:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/Shivaprasad/Documents/Tests/age-verifier/app/app/src/main/AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from /Users/Shivaprasad/Documents/Tests/age-verifier/app/app/src/main/AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from /Users/Shivaprasad/Documents/Tests/age-verifier/app/app/src/main/AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/Shivaprasad/Documents/Tests/age-verifier/app/app/src/main/AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from /Users/Shivaprasad/Documents/Tests/age-verifier/app/app/src/main/AndroidManifest.xml:18:27-74
+uses-sdk
+INJECTED from /Users/Shivaprasad/Documents/Tests/age-verifier/app/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/Shivaprasad/Documents/Tests/age-verifier/app/app/src/main/AndroidManifest.xml
+INJECTED from /Users/Shivaprasad/Documents/Tests/age-verifier/app/app/src/main/AndroidManifest.xml
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/Shivaprasad/.gradle/caches/transforms-2/files-2.1/05e1aae58ba546db4590cb593488aa63/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/Shivaprasad/.gradle/caches/transforms-2/files-2.1/05e1aae58ba546db4590cb593488aa63/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.1.0] /Users/Shivaprasad/.gradle/caches/transforms-2/files-2.1/6da726d11500ea87420a65c16945b7ee/jetified-core-ktx-1.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.1.0] /Users/Shivaprasad/.gradle/caches/transforms-2/files-2.1/6da726d11500ea87420a65c16945b7ee/jetified-core-ktx-1.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/Shivaprasad/.gradle/caches/transforms-2/files-2.1/23da927df6fcbf2fc345617987c56b9a/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/Shivaprasad/.gradle/caches/transforms-2/files-2.1/23da927df6fcbf2fc345617987c56b9a/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/Shivaprasad/.gradle/caches/transforms-2/files-2.1/73ae7c09693cba06f1a84748c8ceb5b9/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/Shivaprasad/.gradle/caches/transforms-2/files-2.1/73ae7c09693cba06f1a84748c8ceb5b9/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/Shivaprasad/.gradle/caches/transforms-2/files-2.1/c3349552856940da3b627c636d898d39/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/Shivaprasad/.gradle/caches/transforms-2/files-2.1/c3349552856940da3b627c636d898d39/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/Shivaprasad/.gradle/caches/transforms-2/files-2.1/44b73a902dc8e6c27b52c6add1034de4/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/Shivaprasad/.gradle/caches/transforms-2/files-2.1/44b73a902dc8e6c27b52c6add1034de4/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/Shivaprasad/.gradle/caches/transforms-2/files-2.1/79cf0a60709ce490076c4861710cb2d1/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/Shivaprasad/.gradle/caches/transforms-2/files-2.1/79cf0a60709ce490076c4861710cb2d1/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/Shivaprasad/.gradle/caches/transforms-2/files-2.1/16cf533b524e4aad4f858c1409940a93/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/Shivaprasad/.gradle/caches/transforms-2/files-2.1/16cf533b524e4aad4f858c1409940a93/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /Users/Shivaprasad/.gradle/caches/transforms-2/files-2.1/57abd04950ef4526cbc28b21b264eec4/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/Shivaprasad/.gradle/caches/transforms-2/files-2.1/57abd04950ef4526cbc28b21b264eec4/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/Shivaprasad/.gradle/caches/transforms-2/files-2.1/3ab970956fd9a401cad0ee3aa796d96c/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/Shivaprasad/.gradle/caches/transforms-2/files-2.1/3ab970956fd9a401cad0ee3aa796d96c/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/Shivaprasad/.gradle/caches/transforms-2/files-2.1/d5afa09d7e328d541cec4838136773ce/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/Shivaprasad/.gradle/caches/transforms-2/files-2.1/d5afa09d7e328d541cec4838136773ce/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /Users/Shivaprasad/.gradle/caches/transforms-2/files-2.1/2fae083181b893272b6fc48f07498de2/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/Shivaprasad/.gradle/caches/transforms-2/files-2.1/2fae083181b893272b6fc48f07498de2/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] /Users/Shivaprasad/.gradle/caches/transforms-2/files-2.1/add1f0fa427e850c06140aa78c65ba37/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /Users/Shivaprasad/.gradle/caches/transforms-2/files-2.1/add1f0fa427e850c06140aa78c65ba37/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/Shivaprasad/.gradle/caches/transforms-2/files-2.1/a6348782eba6a7f4d2285bdc7efeb59c/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/Shivaprasad/.gradle/caches/transforms-2/files-2.1/a6348782eba6a7f4d2285bdc7efeb59c/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/Shivaprasad/.gradle/caches/transforms-2/files-2.1/09f3a86599a2e8cfb2feaf6f728f2349/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/Shivaprasad/.gradle/caches/transforms-2/files-2.1/09f3a86599a2e8cfb2feaf6f728f2349/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/Shivaprasad/.gradle/caches/transforms-2/files-2.1/7440921f31427932685ff6bccfdca3f6/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/Shivaprasad/.gradle/caches/transforms-2/files-2.1/7440921f31427932685ff6bccfdca3f6/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/Shivaprasad/.gradle/caches/transforms-2/files-2.1/de298ad99b658ccdaa37835c95844e60/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/Shivaprasad/.gradle/caches/transforms-2/files-2.1/de298ad99b658ccdaa37835c95844e60/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/Shivaprasad/.gradle/caches/transforms-2/files-2.1/95901312849414deaf6e849570ce7cd6/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/Shivaprasad/.gradle/caches/transforms-2/files-2.1/95901312849414deaf6e849570ce7cd6/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/Shivaprasad/.gradle/caches/transforms-2/files-2.1/48bb204b74ac36f6defcfd025c9da539/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/Shivaprasad/.gradle/caches/transforms-2/files-2.1/48bb204b74ac36f6defcfd025c9da539/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/Shivaprasad/.gradle/caches/transforms-2/files-2.1/54b9dbebf17a539d6ad509cd4de8f404/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/Shivaprasad/.gradle/caches/transforms-2/files-2.1/54b9dbebf17a539d6ad509cd4de8f404/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/Shivaprasad/.gradle/caches/transforms-2/files-2.1/02186aee80d434089bca00b567e83c12/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/Shivaprasad/.gradle/caches/transforms-2/files-2.1/02186aee80d434089bca00b567e83c12/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/Shivaprasad/.gradle/caches/transforms-2/files-2.1/32471e4534f188e37152139e08344500/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/Shivaprasad/.gradle/caches/transforms-2/files-2.1/32471e4534f188e37152139e08344500/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+INJECTED from /Users/Shivaprasad/Documents/Tests/age-verifier/app/app/src/main/AndroidManifest.xml
+INJECTED from /Users/Shivaprasad/Documents/Tests/age-verifier/app/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/Shivaprasad/Documents/Tests/age-verifier/app/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Shivaprasad/Documents/Tests/age-verifier/app/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Shivaprasad/Documents/Tests/age-verifier/app/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/Shivaprasad/Documents/Tests/age-verifier/app/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Shivaprasad/Documents/Tests/age-verifier/app/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Shivaprasad/Documents/Tests/age-verifier/app/app/src/main/AndroidManifest.xml

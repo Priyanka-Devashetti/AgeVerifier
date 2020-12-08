@@ -1,0 +1,50 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.ageverifier"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->/Users/Shivaprasad/Documents/Tests/age-verifier/app/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->/Users/Shivaprasad/Documents/Tests/age-verifier/app/app/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->/Users/Shivaprasad/Documents/Tests/age-verifier/app/app/src/main/AndroidManifest.xml:5:5-67
+11-->/Users/Shivaprasad/Documents/Tests/age-verifier/app/app/src/main/AndroidManifest.xml:5:22-64
+12
+13    <application
+13-->/Users/Shivaprasad/Documents/Tests/age-verifier/app/app/src/main/AndroidManifest.xml:7:5-21:19
+14        android:allowBackup="true"
+14-->/Users/Shivaprasad/Documents/Tests/age-verifier/app/app/src/main/AndroidManifest.xml:8:9-35
+15        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+15-->[androidx.core:core:1.1.0] /Users/Shivaprasad/.gradle/caches/transforms-2/files-2.1/add1f0fa427e850c06140aa78c65ba37/core-1.1.0/AndroidManifest.xml:24:18-86
+16        android:debuggable="true"
+17        android:icon="@mipmap/ic_launcher"
+17-->/Users/Shivaprasad/Documents/Tests/age-verifier/app/app/src/main/AndroidManifest.xml:9:9-43
+18        android:label="@string/app_name"
+18-->/Users/Shivaprasad/Documents/Tests/age-verifier/app/app/src/main/AndroidManifest.xml:10:9-41
+19        android:roundIcon="@mipmap/ic_launcher_round"
+19-->/Users/Shivaprasad/Documents/Tests/age-verifier/app/app/src/main/AndroidManifest.xml:11:9-54
+20        android:supportsRtl="true"
+20-->/Users/Shivaprasad/Documents/Tests/age-verifier/app/app/src/main/AndroidManifest.xml:12:9-35
+21        android:theme="@style/AppTheme" >
+21-->/Users/Shivaprasad/Documents/Tests/age-verifier/app/app/src/main/AndroidManifest.xml:13:9-40
+22        <activity android:name="com.example.ageverifier.MainActivity" >
+22-->/Users/Shivaprasad/Documents/Tests/age-verifier/app/app/src/main/AndroidManifest.xml:14:9-20:20
+22-->/Users/Shivaprasad/Documents/Tests/age-verifier/app/app/src/main/AndroidManifest.xml:14:19-47
+23            <intent-filter>
+23-->/Users/Shivaprasad/Documents/Tests/age-verifier/app/app/src/main/AndroidManifest.xml:15:13-19:29
+24                <action android:name="android.intent.action.MAIN" />
+24-->/Users/Shivaprasad/Documents/Tests/age-verifier/app/app/src/main/AndroidManifest.xml:16:17-69
+24-->/Users/Shivaprasad/Documents/Tests/age-verifier/app/app/src/main/AndroidManifest.xml:16:25-66
+25
+26                <category android:name="android.intent.category.LAUNCHER" />
+26-->/Users/Shivaprasad/Documents/Tests/age-verifier/app/app/src/main/AndroidManifest.xml:18:17-77
+26-->/Users/Shivaprasad/Documents/Tests/age-verifier/app/app/src/main/AndroidManifest.xml:18:27-74
+27            </intent-filter>
+28        </activity>
+29    </application>
+30
+31</manifest>
