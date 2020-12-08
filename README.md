@@ -22,7 +22,17 @@ Objective of this test is to evaluate candidate ability to design the test cases
 
 
 ## Test Cases
+
+### Assumption 
+
+
+
 ### UI Test Cases
+#### Assumption and Clarification
+- Throws Server error(500) when negative age value is entered (Ideal expectation would be to have validation logic). Please clarify if the code is to be modified to handle this validation before making the API service call  <br>
+- Returns PerformException when non numeric values entered (Ideal expectation would be to have validation logic). Please clarify if the code is to be modified to handle this validation before making the API service call  <br>
+
+
 | Test case ID | Description                                                                                                                                                                                                                                                                                                                                                                      | Test case Type    |
 | ------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
 | UITC001      | Scenario Outline:Verify the user aged above 18 is allowed to drink<br>Given:Emulator launched successfully<br>When entered "<Age>" is above 18 and Clicked on the button<br>Then user should see message syaing "you are allowed to Drink"<br>\*Examples\*<br>\*Age\*<br>\*28,35 etc\*                                                                                           | Positive       |
@@ -33,6 +43,11 @@ Objective of this test is to evaluate candidate ability to design the test cases
   
   
 ### API -Service Test Cases
+#### Assumption and Clarification
+- Service returns {"isValid":null} when passed Age value is above 50 <br>
+- Service throws error for negative age values <br>
+
+
 | Test case ID | Description                                                                                                                                                                                                                                                                                                                                             | Test case Type |
 | ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------- |
 | APITC001     | Scenario Outline:Verify Age verifier API returing status response code<br>Given End point must be accessible<br>When user hits "<End point>" and enters "<Age>" in request body<br>Then user must recive the "<Status\_code>"<br>Examples:<br>\*End point\*\*Age\*Status\_code\*<br>\*https://age-verifier.herokuapp.com/age/verifier\*\*20\*200\*      | Positive       |
