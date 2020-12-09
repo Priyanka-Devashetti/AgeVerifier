@@ -8,8 +8,9 @@ Objective of this test is to evaluate candidate ability to design the test cases
 
 
 ## Tech Stack
-| Programming Language | Kotlin |
+| Subject Area | Tech |
 |----------------------|--------|
+| Programming Language | Kotlin |
 | API                  | Rest Based API Hosted in Heroku |
 | Test Automation      | Espresso, Rest Assured, JUnit |
 | Build                | Gradle |
@@ -22,8 +23,6 @@ Objective of this test is to evaluate candidate ability to design the test cases
 
 
 ## Test Cases
-
-### Assumption 
 
 
 
@@ -48,11 +47,11 @@ Objective of this test is to evaluate candidate ability to design the test cases
 - Service throws error for negative age values <br>
 
 
-| Test case ID | Description                                                                                                                                                                                                                                                                                                                                             | Test case Type |
-| ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------- |
-| APITC001     | Scenario Outline:Verify Age verifier API returing status response code<br>Given End point must be accessible<br>When user hits "<End point>" and enters "<Age>" in request body<br>Then user must recive the "<Status\_code>"<br>Examples:<br>\*End point\*\*Age\*Status\_code\*<br>\*https://age-verifier.herokuapp.com/age/verifier\*\*20\*200\*      | Positive       |
-| APITC002     | "Scenario Outline:Verify Age verifier API returing true when age input between 18 -50<br>Given End point must be accessible<br>When user hits ""<End point>"" and enters ""<Age>"" in request body<br>Then user must recive the {"isValid":true} text<br>Examples:<br>\*End point\*\*Age\*<br>\*https://age-verifier.herokuapp.com/age/verifier\*\*20\* | Positive       |
-| APITC003     | "Scenario Outline:Verify Age verifier API returing false when age input below 18<br>Given End point must be accessible<br>When user hits ""<End point>"" and enters ""<Age>"" in request body<br>Then user must recive the {"isValid":false} text<br>Examples:<br>\*End point\*\*Age\*<br>\*https://age-verifier.herokuapp.com/age/verifier\*\*10\*     | Positive       |
-| APITC004     | "Scenario Outline:Verify Age verifier API returing null when age input above 50<br>Given End point must be accessible<br>When user hits ""<End point>"" and enters ""<Age>"" in request body<br>Then user must recive the<br>Examples:<br>\*End point\*\*Age\*<br>\*https://age-verifier.herokuapp.com/age/verifier\*\*55\*                             | Positive       |
-| APITC004     | "Scenario Outline:Verify Age verifier API when user enters nagative age<br>Given End point must be accessible<br>When user hits ""<End point>"" and enters ""<Age>"" in request body<br>Then user must recive Internal server error<br>Examples:<br>\*End point\*\*Age\*<br>\*https://age-verifier.herokuapp.com/age/verifier\*\*-100\*                 | Nagative       |
+|Test case ID|Description                                                                                                                                                                                                                                                                                                                   |Test case Type|
+|------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------|
+|APITC001    |Scenario Outline:Verify Age verifier API returing status response code  Given End point must be accessible When user hits "{End point}" and enters "{Age}" in request body  Then user must recive the "{Status_code}" Examples: *End point**Age*Status_code* *https://age-verifier.herokuapp.com/age/verifier**20*200*        |Positive      |
+|APITC002    |"Scenario Outline:Verify Age verifier API returing true when age input between 18 -50 Given End point must be accessible When user hits "{End point}" and enters "{Age}" in request body  Then user must recive the {"isValid":true} text Examples: *End point**Age* *https://age-verifier.herokuapp.com/age/verifier**20*|Positive      |
+|APITC003    |"Scenario Outline:Verify Age verifier API returing false when age input below 18  Given End point must be accessible When user hits "{End point}" and enters "{Age}" in request body  Then user must recive the {"isValid":false} text Examples: *End point**Age* *https://age-verifier.herokuapp.com/age/verifier**10*   |Positive      |
+|APITC004    |"Scenario Outline:Verify Age verifier API returing null when age input above 50 Given End point must be accessible When user hits "{End point}" and enters "{Age}" in request body  Then user must recive the  Examples: *End point**Age* *https://age-verifier.herokuapp.com/age/verifier**55*                           |Positive      |
+|APITC004    |"Scenario Outline:Verify Age verifier API when user enters nagative age Given End point must be accessible When user hits "{End point}" and enters "{Age}" in request body  Then user must recive Internal server error Examples: *End point**Age* *https://age-verifier.herokuapp.com/age/verifier**-100*                |Nagative      |
 
